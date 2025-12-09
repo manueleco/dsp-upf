@@ -34,3 +34,9 @@ env/
 # === Tests / cachés varios (por si acaso) ===
 .pytest_cache/
 .mypy_cache/
+
+# Virtual environments
+dsp-virtual-3.11/
+venv/
+.venv/
+env/
