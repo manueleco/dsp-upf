@@ -1,0 +1,36 @@
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Paquetes y builds
+*.egg-info/
+dist/
+build/
+
+# === Entornos virtuales ===
+venv/
+.venv/
+env/
+.env
+.envrc
+
+# === Jupyter ===
+.ipynb_checkpoints/
+*.ipynb_autosave
+
+# === Editores / IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Tests / cachés varios (por si acaso) ===
+.pytest_cache/
+.mypy_cache/
